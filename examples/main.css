@@ -26,16 +26,13 @@ button {
 	position: absolute;
 	/* float: left; */
 	top: 15px;
-	width: 100%;
+	width: 850px;
 	padding: 10px;
 	box-sizing: border-box;
 	text-align: center;
-	-moz-user-select: none;
-	-webkit-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
-	pointer-events: none;
-	/* z-index: 1; TODO Solve this in HTML */
+	margin: 0px 500px 0px 500px;
+	background-color: rgb(0,0,0,0.5);
+	
 }
 
 a, button, input, select {
